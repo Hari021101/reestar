@@ -1,0 +1,53 @@
+nav{
+    background-color: black;
+    color: white;
+
+}
+ul,li{
+    display: inline;
+}
+.food{
+   margin-top: 30px;
+   margin-left: 10px;
+    border:solid black 5px;
+    width: 250px;
+    height:320px;
+    display: inline-block;
+    vertical-align: top;
+}
+.input{
+    width: 70px;
+    height: 25px;
+    color: cadetblue;
+}
+a:hover{
+color:aqua;
+}
+img{
+    width: 240px;
+    padding:5px;
+    height: 200px;
+}
+.foodd{
+    text-align: center;
+}
+.Contact{
+background-color:black;
+    color:white;
+}
+.button1{
+    width: 400px;
+    color: aquamarine;
+    background-color:black;
+    border:solid plum 2px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+table{
+    color: white;
+}
+.button{
+    color: aquamarine;
+    border: solid plum 2px;
+    background-color: black;
+}
